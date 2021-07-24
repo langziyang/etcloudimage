@@ -36,3 +36,5 @@ Remove
 ![img](http://p.shoucangjie.xin/modules/etcloudimage/domain.png)
 ### 4、Add image type
 ![img](http://p.shoucangjie.xin/modules/etcloudimage/presets.png)
+### 5、Delete small image
+![img](http://p.shoucangjie.xin/modules/etcloudimage/deleteSmall.png)

@@ -14,7 +14,6 @@
 `
 
 ![img](http://p.shoucangjie.xin/modules/etcloudimage/ProductDataProvider.png)
-
 ### 2、修改文件 `src/Adapter/Image/ImageRetriever.php`
 
 找到方法名 `public function getImage($object, $id_image)`
@@ -35,10 +34,10 @@
         );
     }
 ![img](http://p.shoucangjie.xin/modules/etcloudimage/ImageRetriever.png)
-
 ### 3、添加原始连接到CDN
 ![img](http://p.shoucangjie.xin/modules/etcloudimage/domain.png)
 
-
 ### 4、添加图片大小到CDN，图片大小来自于Prestashop
 ![img](http://p.shoucangjie.xin/modules/etcloudimage/presets.png)
+### 5、删除以前生成的小图片
+![img](http://p.shoucangjie.xin/modules/etcloudimage/deleteSmall.png)
